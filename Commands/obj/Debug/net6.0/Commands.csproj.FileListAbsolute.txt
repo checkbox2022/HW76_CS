@@ -1,0 +1,15 @@
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\bin\Debug\net6.0\Commands.exe
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\bin\Debug\net6.0\Commands.deps.json
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\bin\Debug\net6.0\Commands.runtimeconfig.json
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\bin\Debug\net6.0\Commands.dll
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\bin\Debug\net6.0\Commands.pdb
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\obj\Debug\net6.0\Commands.csproj.AssemblyReference.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\obj\Debug\net6.0\Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\obj\Debug\net6.0\Commands.AssemblyInfoInputs.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\obj\Debug\net6.0\Commands.AssemblyInfo.cs
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\obj\Debug\net6.0\Commands.csproj.CoreCompileInputs.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\obj\Debug\net6.0\Commands.dll
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\obj\Debug\net6.0\refint\Commands.dll
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\obj\Debug\net6.0\Commands.pdb
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\obj\Debug\net6.0\Commands.genruntimeconfig.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\Commands\obj\Debug\net6.0\ref\Commands.dll
